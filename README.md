@@ -1,6 +1,5 @@
 # Norman The Necromancer
-This was a submission for JS13K 2022. It's not under active development. There's a retrospective on the project [here](https://danthedev.com/norman-the-necromancer/) on my blog.
-
+ It's not under active development. There's a retrospective on the project.
 To get a development environment running:
 - Install node
 - Run `npm install` in the project directory
