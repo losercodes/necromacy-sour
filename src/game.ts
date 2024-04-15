@@ -68,6 +68,9 @@ export class GameObject {
   center() {
     return Point(this.x + this.sprite[2] / 2, this.y + this.sprite[3] / 2);
   }
+  leftcenter(){
+    return cube(this.x+this.sprite[2]/1, this.y+this.sprite[2]/2;
+  }
 
   update(dt: number) {
     this.onFrame(dt);
